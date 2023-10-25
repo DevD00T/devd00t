@@ -1,16 +1,27 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**DevD00T/devd00t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙏, I'm Debargha Das.  
+## FullStack Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/Facebook-DebarghaDas-blue)](https://www.facebook.com/debargha.das.official/)
+[![](https://img.shields.io/badge/Gmail-zirosyntax%40gmail.com-red)](mailto:zirosyntax@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
+```javascript
+const UserInformation = {
+ pronouns: "He" | "Him",
+    askMeAbout: ["Fullstack developer"],
+    technologies:{
+        fronend: ["react-native","reactjs","nextjs"],
+        backend: ["nodejs", "express","socketIO"],
+        database: ["mongo","mysql"],
+        others:["After-effect","Illustraion","C Lang","Python"]
+    },
+    interests: ["music", "travel", "movie"]
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
