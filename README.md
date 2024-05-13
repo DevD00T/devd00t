@@ -1,6 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-🙏, I'm Debargha Das.  
+Hello 🙏,
+I'm Debargha Das. (Dev) 
 ## FullStack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/Facebook-DebarghaDas-blue)](https://www.facebook.com/debargha.das.official/)
@@ -15,12 +16,12 @@ const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["Fullstack developer"],
     technologies:{
-        fronend: ["react-native","reactjs","nextjs"],
-        backend: ["nodejs", "express","socketIO"],
-        database: ["mongo","mysql"],
-        others:["After-effect","Illustraion","C Lang","Python"]
+        fronend: ["react-native","reactjs","nextjs","typescript"],
+        backend: ["nodejs", "express","socketIO","bun"],
+        database: ["nosql","mysql"],
+        others:["after-effects","framer-motion","Python"]
     },
-    interests: ["music", "travel", "movie"]
+    interests: ["gaming","music", "travel", "movie"]
 }
 ```
 
