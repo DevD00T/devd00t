@@ -14,14 +14,14 @@ I'm Debargha Das. (Dev)
 ```javascript
 const UserInformation = {
  pronouns: "He" | "Him",
-    askMeAbout: ["Fullstack developer"],
+    askMeAbout: ["software/fullstack developer"],
     technologies:{
         fronend: ["react-native","reactjs","nextjs","typescript"],
-        backend: ["nodejs", "express","socketIO","bun"],
+        backend: ["nodejs","express","socketIO","bun"],
         database: ["nosql","mysql"],
         others:["after-effects","framer-motion","Python"]
     },
-    interests: ["gaming","music", "travel", "movie"]
+    interests: ["gaming","music","travel","movie"]
 }
 ```
 
